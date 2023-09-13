@@ -23,3 +23,6 @@
 hs_err_pid*
 replay_pid*
 tipos-variaveis/.vscode/settings.json
+java-terminal/.vscode/settings.json
+controle-fuxo/.vscode/settings.json
+java-terminal/README.md
